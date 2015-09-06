@@ -1,0 +1,25 @@
+<resources>
+    <!-- AndroidManifest.xml -->
+    <string name="app_name">ListMemo</string>
+    <string name="edit_activity_title">Edit</string>
+
+    <!-- MainActivity.java -->
+    <string name="msg_del">Deleted</string>
+
+    <!-- EditActivity.java -->
+    <string name="msg_destruction">Canceled</string>
+
+    <!-- activity_edit.xml -->
+    <string name="hint_title">Title</string>
+    <string name="hint_content">Content</string>
+
+    <!-- main_context.xml -->
+    <string name="context_del">Delete</string>
+
+    <!-- menu_edit.xml -->
+    <string name="action_delete">Delete</string>
+
+    <!-- menu_main.xml -->
+    <string name="action_add">Add</string>
+
+</resources>
